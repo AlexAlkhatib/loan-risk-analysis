@@ -1,4 +1,4 @@
-# **Loan Risk & Customer Profiling Analysis — Nettoyage, Feature Engineering & Visualisation**
+# 💳 **Loan Risk & Customer Profiling Analysis — Nettoyage, Feature Engineering & Visualisation**
 
 Ce projet analyse des données de prêts et de clients afin d’évaluer les profils d’emprunteurs, de segmenter les risques et de visualiser les tendances financières.
 Réalisé dans un cadre **personnel d’apprentissage**, il met en pratique des compétences clés en **Python**, **pandas**, **feature engineering**, **statistiques**, et **visualisation avancée**.
