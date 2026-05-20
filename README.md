@@ -133,15 +133,15 @@ loan_risk_analysis/
 
 ## 🧠 Compétences démontrées
 
-✔ Nettoyage structuré de données réelles
-✔ Fusion multi-sources (Excel & CSV)
-✔ Feature engineering avec règles métiers
-✔ Fonctions personnalisées + apply
-✔ Utilisation de classes Python pour statistiques
-✔ Analyse statistique (FICO, DTI, risk scoring)
-✔ Visualisation professionnelle (Seaborn, Matplotlib)
-✔ Détection d’emprunteurs à risque
-✔ Analyse financière & scoring simplifié
+- ✔ Nettoyage structuré de données réelles
+- ✔ Fusion multi-sources (Excel & CSV)
+- ✔ Feature engineering avec règles métiers
+- ✔ Fonctions personnalisées + apply
+- ✔ Utilisation de classes Python pour statistiques
+- ✔ Analyse statistique (FICO, DTI, risk scoring)
+- ✔ Visualisation professionnelle (Seaborn, Matplotlib)
+- ✔ Détection d’emprunteurs à risque
+- ✔ Analyse financière & scoring simplifié
 
 
 ## 🔧 Améliorations possibles
